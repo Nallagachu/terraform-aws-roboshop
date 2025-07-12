@@ -7,11 +7,11 @@ variable "environment" {
 }
 
 variable "zone_id" {
-    default = "Z032558618100M4EJX8X4"
+    default = "Z10031831EHO6D6LW9W2V"
 }
 
 variable "zone_name" {
-    default = "daws84s.site"
+    default = "saijyo.store"
 }
 
 variable "component" {
